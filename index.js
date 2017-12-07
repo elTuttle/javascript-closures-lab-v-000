@@ -32,5 +32,7 @@ function createAnimal(animalType){
 
 const sharkCreator = createAnimal('Shark');
 
+console.log(sharkCreator)
+
 var sharkWithFrickinLaserbeam = sharkCreator('Laserbeam');
 var sharkWithFrickinCannon = createDevice('Cannon')
