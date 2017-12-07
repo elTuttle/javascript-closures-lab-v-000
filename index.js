@@ -22,7 +22,7 @@ function createAnimal(animalType){
   function createDevice(deadlyDevice){
     return {
       animalType,
-      deadlyAnimal
+      deadlyDevice
     };
 
   }
